@@ -1,4 +1,4 @@
-# React Component - styling : inline
+# React Component - styling(inline)
 
 <pre>
 
