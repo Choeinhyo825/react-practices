@@ -1,9 +1,2 @@
-const f = x => {
-    return x * x;
-}
-
-a => {    
-    return a*a
-};
-
+const f = x => x * x;
 console.log(f(10));

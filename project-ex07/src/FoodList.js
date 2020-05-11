@@ -8,7 +8,7 @@ export default class FoodList extends React.Component {
                 <FoodListItem name='bread' quantity='1'/>
                 <FoodListItem name='Egg' quantity='3'/>
                 <FoodListItem name='Milk' quantity='5'/>
-            </ul>
+            </ul>    
         );
     }
 }

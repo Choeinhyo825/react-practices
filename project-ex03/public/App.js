@@ -1,8 +1,6 @@
 const App = function(){
     const app = document.createElement('h1');
-    app.textContent = 'Hello World';
+    app.textContent = 'Hello Wolrd';
 
     return app;
 }
-
-document.getElementById('root').appendChild(App());
